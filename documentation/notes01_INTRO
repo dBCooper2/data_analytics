@@ -1,0 +1,37 @@
+Working with Programming and Data Analytics
+
+What am I going to work on in this repository?
+	- Excel
+	- Python
+	- SQL
+	- Tableau
+
+ROADMAP:
+	1 - Python Data Analysis
+https://www.linkedin.com/learning/python-data-analysis-2/get-started-in-data-analysis-with-python?autoplay=true&contextUrn=urn%3Ali%3AlearningCollection%3A6993073568611762176
+
+	2 - Jupyter Notebook
+https://www.linkedin.com/learning/introducing-jupyter/present-data-like-a-pro-with-jupyter?autoplay=true&contextUrn=urn%3Ali%3AlearningCollection%3A6993073568611762176
+
+	3 - Presenting Data with Python
+https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python?autoplay=true&contextUrn=urn%3Ali%3AlearningCollection%3A6993073568611762176
+
+	4 - Excel with Python
+https://www.linkedin.com/learning/using-python-with-excel/managing-excel-with-python?autoplay=true&contextUrn=urn%3Ali%3AlearningCollection%3A6993073568611762176
+
+	5 - SQL Course
+	
+	6 - Using SQL with Python
+https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?autoplay=true&contextUrn=urn%3Ali%3AlearningCollection%3A6993073568611762176
+
+	7 - Using NoSQL
+	8 - Using NoSQL with Python
+	9 - R
+		- Take notes on documentation
+		- Quick R Project to show you know how it works
+	10 - MATLAB
+		- Take Notes on Documentation
+		- Quick MATLAB Project to show you know how it works
+	
+CAPSTONE:
+	- Bot that pulls data for a sector and finds the 5 best performing companies using a variety of stock models

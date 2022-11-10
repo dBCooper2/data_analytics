@@ -1,0 +1,8 @@
+PATH FOR SAVING NOTEBOOKS:
+Documents/github/data_analytics/code/jupyter_notebooks/
+
+NAMING CONVENTION:
+notebookXX_note_about_whats_in_this.ipynb
+
+TO LAUNCH JUPYTER IN iTERM:
+jupyter notebook
